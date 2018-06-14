@@ -6,7 +6,7 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace pwnedPasswords
 {
     class Program
     {
