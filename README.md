@@ -5,16 +5,16 @@ Example .NET core app using the [PwnedPasswords.Client](https://github.com/andre
 
 Install the PwnedPasswords.Client NuGet package into your project using the [dotnet](https://www.microsoft.com/net/learn/get-started) CLI:
 
-```bash```
+```
 dotnet add package PwnedPasswords.Client --version 1.0.0
-```end```
+```
 
 Clone this repo
 
-```bash```
+```
 git clone git@github.com:robinske/pwned-cs.git
 cd pwned-cs
-```end```	
+```
 
 Run the project with `dotnet run` from the console to see the boolean result.
 
